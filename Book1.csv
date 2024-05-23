@@ -1,0 +1,35 @@
+Patient_ID,Name,Father's name,Disease,Date of admission,Gender,Age,Address,Phone no.,Date of birth,Current medical history,Blood group,Email,Tests done,Consultant doctor,Reference doctor,Pateint type,Room no.,Payment method
+P1,Mahesh,Ramlal,Cancer,11/12/18,Male,56,Pratap Nagar,9141665877,04/03/90,Blood pressure,A+,abc@gmail.com,9,DR.Arjun Sharma,DR.Reddy,Normal,201,Cash
+P2,Suresh,Gaurav,Heart disease,11/09/19,Male,87,Pratap Nagar,9141339844,11-12-1889,Thyroid,B+,def@gmail.com,4,DR.Shalini Gupta,DR.Bansal,Normal,230,Credit cards
+P3,Mohit,Sumit,Typhoid,20/05/17,Male,74,Malviya Nagar,8756963220, 13-19-1999,Tuberculosis,O+,pqr@gmail.com,2,DR.Ayushi Kaur,DR.B.Lal,Handicapped,258,Debit cards
+P4,Rohit,Bhupesh,Cancer,15/09/19,Male,54,C-scheme,6523748062,12/07/78,Blood pressure,A-,mno@gmail.com,11,DR.Arjun Sharma,DR.Reddy,Normal,589,Cash
+P5,Saurabh,Ramesh,Heart disease,12/09/20,Male,65,Raja Park,9856210469,11/05/95,Blood pressure,B-,xyz@gmail.in,8,DR.Erica Bose,DR.Reddy,Handicapped,412,Cash
+P6,Raghav,Ramnath,Typhoid,16/10/20,Male,87,Tonk phatak,8574103269,10/02/00,Diabetes,0,axv@yahoo.com,6,DR.Ayushi Kaur,DR.Sharma,Normal,741,Debit cards
+P7,Kabir,Gopal,Jaundice,12/12/12,Male,45,Durgapura,8596302147,12/06/92,Diabetes,AB,rst@gmail.in,7,DR.Ayushi Kaur,DR.Shah,Normal,789,Cash
+P8,Harsh,Karan,Malaria,11/12/20,Male,36,Gopalpura,8596320147,16/08/91,Tuberculosis,A+,jkl@gmail.in,3,DR.Ayushi Kaur,DR.Shah,Normal,523,Debit cards
+P9,Rudra,Krishna,Cancer,19/08/20,Male,85,Pratap Nagar,7452369810,18/08/91,Blood pressure,A+,uvw@yahho.in,5,DR.Arjun Sharma,DR.Reddy,Normal,703,Cash
+P10,Shashank,Saumy,Dengue,12/09/20,Male,14,C-scheme,7452369801,11/12/15,Thyroid,B+,rqa@gmail.com,7,DR.Ayushi Kaur,DR.Bose,Normal,890,Credit cards
+,,,,,,,,,,,,,,,,,,
+Doctor_ID,Doctor's name,Father's /husband's name,Gender,Department,Martial status,Consultation day,Consultation time from,Consultation time to,Address,Contact no.,Emergency no.,Age,Total pateints,Date of joining,Assistant doctor,Education,O.T days,Fees
+D101,DR.Arjun Sharma,Ankit Sharma,Male,Radiology,Unmarried,Monday,09:00:00,11:00:00,Malviya nagar,9853201456,9853047130,45,11,20/05/18,DR.Amit Sharma,"MBBS,PHd",Monday,200000/-
+D102,DR.Shalini Gupta,Mahesh Gupta,Female,Cardiology,Unmarried,Tuesday,05:00:00,12:00:00,Pratap nagar,7458960144,8530795847,36,9,12/11/19,DR.Arun Bansal,"MBBS,PG",Tuesday,50000/-
+D103,DR.Ayushi Kaur,Anirudh Kaur,Female,Physician,Married,Tuesday,12:30:00,16:00:00,C-scheme,9853024178,9685710354,54,5,01/09/17,Dr.Namita Gupta,MBBS,Tuesday,80000/-
+D104,DR.Erica Bose,Pankaj Bose,Female,Cardiology,Married,Wednesday,09:00:00,11:00:00,Tonk Phatak,9521725698,9632574015,62,9,10/06/15,DR.Namrita Sen,"MBBS,PG",Wednesday,60000/-
+D105,DR.Preeti Goyal,Hariom Goyal,Female,Gastrology,Unmarried,Monday,19:00:00,02:00:00,Durgapura,9630214587,9685741230,21,15,15/08/19,DR.Pankhuri,MBBS,Monday,500000/-
+D106,DR.Arun Khandelwal,Dinesh Khandelwal,Male,Gastrology,Unmarried,Friday,18:00:00,05:00:00,Mahaveer nagar,9201473965,9685740231,32,45,26/09/16,DR.Dipika Singh,MBBS,Friday,60000/-
+D107,DR.Rahul Shetty,Ramjilal Shetty,Male,Dentist,Married,Saturday,20:00:00,10:00:00,Gopalpura,8523014569,8570324569,48,25,17/09/20,DR.Enna Kaur,"MBBS,PG",Saturday,70000/-
+D108,DR.Retiesh Agarwal,Naresh Agarwal,Male,Dentist,Unmarried,Thursday,15:00:00,20:00:00,Raja Park,7410358961,7490235045,65,20,10/02/20,DR.Rashmi,"MBBS,PG",Thursday,85000/-
+D109,DR.Yash Jain,Mahaveer Jain,Male,Physician,Unmarried,Sunday,17:00:00,00:00:00,Pratap nagar,8541032698,7452301568,85,10,20/10/20,DR.Tarun Chauhan,"MBBS,PHd",Sunday,54000/-
+D110,DR.Anurag Sharma,Aryan Sharma,Male,Audiology,Married,Monday,16:00:00,18:00:00,Tonk Phatak,8530147965,8526514554,29,2,18/12/20,DR. Tushar Naruka,MBBS,Monday,90000/-
+,,,,,,,,,,,,,,,,,,
+Staff_ID,Name of staff member,Father's Name,Gender,Phone no.,Doctor,Address,Education,Age,Fee,,,,,,,,,
+S1001,Jitendra Goswami,Anupam Goswami,Male,6932014587,DR.Arjun Sharma,Malviya nagar,"BAMS,MD",23 yrs,20000/-,,,,,,,,,
+S1002,Sumitra Rai,Siddharth Rai,Female,7410325896,DR.Erica Bose,Mahaveer nagar,BAMS,26 yrs,12000/-,,,,,,,,,
+S1003,Usha Soni,Umesh Soni,Female,8547103269,DR.Yash Jain,Pratap nagar,BAMS,35 yrs,15000/-,,,,,,,,,
+S1004,Madhu Gupta,Surendra Gupta,Female,8520179632,DR.Rahul Shetty,Jagatpura,"BAMS,MD",40 yrs,25000/-,,,,,,,,,
+S1005,Priyanka Soni,Abhijeet Soni,Female,6584793201,DR.Anurag Sharma,Raja park,BAMS,21 yrs,25000/-,,,,,,,,,
+S1006,Abdul Hafeez,Aamir Hafeez,Male,8520743698,DR.Shalini Gupta,C-scheme,BAMS,35 yrs,30000/-,,,,,,,,,
+S1007,Mohan Kumar,Mukesh Kumar,Male,7485036941,DR.Preeti Goyal,Gopalpura,BAMS,45 yrs,10000/-,,,,,,,,,
+S1008,Akshat Agarwal,Omkar Agarwal,Male,7410852369,DR.Retiesh Agarwal,Raja park,"BAMS,MD",42 yrs,60000/-,,,,,,,,,
+S1009,Rajat Kumar,Shivaay Kumar,Male,8430201122,DR.Arun Khandelwal,Pratap nagar,BAMS,38 yrs,45000/-,,,,,,,,,
+S1010,Ashwini Negi,Anand Negi,Female,7441103658,DR.Ayushi Kaur,Tonk phatak,BAMS,29 yrs,25000/-,,,,,,,,,
